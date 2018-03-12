@@ -82,7 +82,7 @@ public class Programa {
 		
 		Jogador jogador21 = new Jogador();
 		jogador21.nome = "Borja";
-		jogador21.dataNascimento = "05/05/95";
+		jogador21.dataNascimento = "04/05/95";
 		jogador21.setPosicao("Atacante");
 		
 		Jogador jogador22 = new Jogador();
